@@ -1,5 +1,5 @@
 # baribeau.github.io
-Adventuneering: a blog dedicated to sharing innovation and problem-solving, big or small, spotted anywhere in the world. Hosted on GitHub Pages.
+Adventuneering: a blog dedicated to sharing inspiring examples of innovation and problem-solving, big or small, spotted anywhere in the world. Hosted on GitHub Pages.
 
 Author: Julia Baribeau
 
