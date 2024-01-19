@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+<meta HTTP-Equiv="Refresh" content="0; URL=https://baribeau.github.io/adventuneering">
