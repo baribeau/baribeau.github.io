@@ -1,5 +1,5 @@
 # baribeau.github.io
-GitHub Pages home directory.
+GitHub Pages home repository.
 
 Author: Julia Baribeau
 
